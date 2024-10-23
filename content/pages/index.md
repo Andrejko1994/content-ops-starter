@@ -6,7 +6,7 @@ sections:
       text: Web Domain Contact
       color: text-dark
       type: TitleBlock
-    subtitle: "Email:\_ \_ \_ \_ \_ \_ \_poprovsky.a1994@gmail.com \_\_\nTelephone:\_ \_ \_+420 733 498 900"
+    subtitle: "Email:\_ \_ \_ \_ \_\_ poprovsky.a1994@gmail.com \_\_\nTelephone:\_ \_ \_+420 733 498 900"
     text: ''
     colors: bg-light-fg-dark
     type: GenericSection
