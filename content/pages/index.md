@@ -8,7 +8,7 @@ sections:
       type: TitleBlock
     subtitle: "Email:\_ \_ \_ \_ \_\_poprovsky.a1994@gmail.com \_\_Telephone:\_ \_ \_+420 733 498 900"
     text: "<div style=\"text-align: left\">| Email       | \_<poprovsky.a1994@gmail.com> |   |\n| ----------- | ---------------------------- | - |\n| Telephone:\_ | +420 733 498 900             |   |</div>\n\n```\n```\n\n"
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     type: GenericSection
     media:
       type: ImageBlock
