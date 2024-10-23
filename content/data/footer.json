@@ -16,14 +16,6 @@
                 "style": "primary",
                 "type": "Link",
                 "showIcon": false
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
