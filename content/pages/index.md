@@ -6,7 +6,7 @@ sections:
       text: Web Domain Contact
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: 'email: popeo'
     text: |+
       <div style="text-align: left"></div>
 
