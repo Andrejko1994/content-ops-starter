@@ -7,7 +7,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Email: poprovsky.a1994@gmail.com                  Telephone: +420 733 498
+      Email:  poprovsky.a1994@gmail.com                  Tel.:     +420 733 498
       900
     text: |+
       <div style="text-align: left"></div>
