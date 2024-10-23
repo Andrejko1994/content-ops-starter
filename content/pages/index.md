@@ -6,7 +6,9 @@ sections:
       text: Web Domain Contact
       color: text-dark
       type: TitleBlock
-    subtitle: 'email: popeo'
+    subtitle: >-
+      Email: poprovsky.a1994@gmail.com                  Telephone: +420 733 498
+      900
     text: |+
       <div style="text-align: left"></div>
 
