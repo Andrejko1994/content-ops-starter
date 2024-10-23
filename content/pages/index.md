@@ -30,7 +30,7 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 700
-    elementId: zjzj
+    elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
