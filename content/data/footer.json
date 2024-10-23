@@ -14,7 +14,8 @@
                 "icon": "arrowRight",
                 "iconPosition": "left",
                 "style": "primary",
-                "type": "Link"
+                "type": "Link",
+                "showIcon": false
             },
             {
                 "label": "Blog",
