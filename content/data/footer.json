@@ -6,18 +6,7 @@
     "text": "A description of your brand",
     "secondaryLinks": {
         "title": "WeBSITE DOMAIN CONTACT",
-        "links": [
-            {
-                "label": "Email:      poprovsky.a1994@gmail.com   Telephone:     +420 733 498 900",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "left",
-                "style": "primary",
-                "type": "Link",
-                "showIcon": false
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [],
