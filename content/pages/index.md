@@ -22,6 +22,8 @@ sections:
       self:
         flexDirection: row
         justifyContent: flex-start
+      subtitle:
+        textAlign: left
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
